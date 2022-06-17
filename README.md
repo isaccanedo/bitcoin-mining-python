@@ -1,10 +1,10 @@
-# Bitcoin Mining in Python
-A Python implementation of the Bitcoin mining algorithm
+# Mineração de Bitcoin em Python
+Uma implementação Python do algoritmo de mineração Bitcoin
 
-This small script is a pseudo-simulation of the Bitcoin Genesis block mining process.
+Este pequeno script é uma pseudo-simulação do processo de mineração de blocos Bitcoin Genesis.
 
-Given the Genesis block's data, this script double-hashes it using SHA-256 and attempts to find a hash less than the Genesis target.
+Dados os dados do bloco Genesis, este script faz um hash duplo usando SHA-256 e tenta encontrar um hash menor que o alvo Genesis.
 
-## Sample Output
+## Saída de Amostra
 <img src="68747470733a2f2f692e696d6775722e636f6d2f41366e5a516f342e706e67.png">
 
