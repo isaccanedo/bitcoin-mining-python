@@ -9,7 +9,7 @@ def block_hash_less_than_target(block_hash, given_target):
     return int(block_hash, 16) < int(given_target, 16)
 
 
-# Initial block data (the transactions' merkle tree root, timestamp, client version, hash of the previous block)
+# Dados do bloco inicial (raiz da árvore merkle das transações, carimbo de data/hora, versão do cliente, hash do bloco anterior)
 blockData = \
     '01000000000000000000000000000000000000000000000000000000000000000000000' \
     '03ba3edfd7a7b12b27ac72c3e67768f617fc81bc3888a51323a9fb8aa4b1e5e4a29ab5f' \
