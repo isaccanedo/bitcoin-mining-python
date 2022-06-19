@@ -21,7 +21,7 @@ blockData = \
     'f6bc3f4cef38c4f35504e51ec112de5c384df7ba0b8d578a4c702b6bf11d5fac00000000' \
         .encode()
 
-# Initial target - this is the easiest it will ever be to mine a Bitcoin block
+# Alvo inicial - este é o mais fácil possível para minerar um bloco Bitcoin
 target = '0x00000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF'
 
 solution_found = False
