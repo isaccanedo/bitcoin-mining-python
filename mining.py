@@ -40,7 +40,7 @@ while not solution_found:
     print('Block hash:')
     print(second_hash)
 
-    print('Is the block hash less than the target?')
+    print('O hash do bloco é menor que o destino?')
     solution_found = block_hash_less_than_target(second_hash, target)
     print(solution_found)
 
