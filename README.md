@@ -1,4 +1,4 @@
-# Mineração de Bitcoin em Python
+## Mineração de Bitcoin em Python
 Uma implementação Python do algoritmo de mineração Bitcoin
 
 Este pequeno script é uma pseudo-simulação do processo de mineração de blocos Bitcoin Genesis.
